@@ -1,0 +1,23 @@
+[
+    {
+        "songlinename": "Valley and Hill Dreaming",
+        "path": [
+            {
+                "ptname": "St. Mary's Episcopal Church",
+                "lat": 40.814806, "lng": -73.956308
+            },
+            {
+                "lat": 40.816215, "lng": -73.957467
+            },
+            {
+                "ptname": "126th and Broadway",
+                "lat": 40.816357, "lng": -73.957987
+            },
+            {
+                "ptname": "118th and Broadway",
+                "lat": 40.809398, "lng": -73.963051}
+        ],
+        "scoreURL": "Songline for 126th to Broadway and 118th Valley And Hill Dreaming Ishmael Wallace p3.jpg",
+        "codeURL": "code0.png"
+    }
+]
