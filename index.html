@@ -21,6 +21,10 @@
           padding: 0;
           width: 100vw;
       }
+      h2 {
+        margin: 0;
+        padding: 0;
+      }
       #header {
         width: 100vw;
       }
@@ -30,11 +34,10 @@
   <body>
     <center><img id="header" src="SonglinesLogo.jpeg" alt="Songlines"/></center>
     <div id="map"></div>
-    <div id="songline">
-      <h2 id="title"></h2>
-      <img id="score" src="#" alt="score image" />
-      <img id="code" src="#" alt="QR code" />
-      <center id="info">Score info data will appear here.</center></div>
+    <div style="display: none">
+      <div id="popupinfo">Info about songline will be displayed here.
+      </div></div>
+      <button onclick="swap">swop</button>
       <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDog7GVoDM0XQeP0q96jzjuu-UMhiVF1LA"
        ></script>
        <script>
@@ -46,6 +49,10 @@
             });
         }
         initMap();
+
+        function swap() {
+          document.getElementsByClassName('popupinfo').innerHTML = "Oik";
+        }
       </script>
       <script type="text/javascript" src="lines.js"></script>
   </body>
