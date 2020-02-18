@@ -1,0 +1,46 @@
+{
+    "songlines":
+        [
+        {
+            "songlinename": "96th St. and West End",
+            "path": [
+                {
+                    "lat": 40.795292,
+                    "lng": -73.973220
+                },
+                {
+                    "lat": 40.796011,
+                    "lng": -73.974947
+                }
+            ],
+            "scoreURL": "Songline for 96th Street & West End.jpg",
+            "recordingURL": "https://soundcloud.com/orfeo-duo/songline96th-street-westend?in=orfeo-duo/sets/neighborhood-songlines"
+        },
+        {
+            "songlinename": "Valley and Hill Dreaming",
+            "path": [
+                {
+                    "ptname": "St. Mary's Episcopal Church",
+                    "lat": 40.814806,
+                    "lng": -73.956308
+                },
+                {
+                    "lat": 40.816215,
+                    "lng": -73.957467
+                },
+                {
+                    "ptname": "126th and Broadway",
+                    "lat": 40.816357,
+                    "lng": -73.957987
+                },
+                {
+                    "ptname": "118th and Broadway",
+                    "lat": 40.809398,
+                    "lng": -73.963051}
+            ],
+            "scoreURL": "Songline for 126th to Broadway and 118th Valley And Hill Dreaming Ishmael Wallace.jpg",
+            "recordingURL": "https://soundcloud.com/orfeo-duo/songline126stmarys-bway-118th?in=orfeo-duo/sets/neighborhood-songlines",
+            "codeURL": "code0.png"
+        }
+    ]
+}
