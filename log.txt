@@ -1,0 +1,34 @@
+[Tue, 18 Feb 2020 09:30:51 GMT] [info] [<0.000.0>] pouchdb-server has started on http://127.0.0.1:5984/
+[Tue, 18 Feb 2020 09:30:51 GMT] [info] [<0.000.0>] navigate to http://127.0.0.1:5984/_utils for the Fauxton UI.
+[Tue, 18 Feb 2020 09:31:01 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/ 304
+[Tue, 18 Feb 2020 09:31:02 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/css/styles-a9623008fc27e79da2388441deeacfab.css 304
+[Tue, 18 Feb 2020 09:31:02 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/js/bundle-34997e32896293a1fa5d71f79eb1b4f7.js 304
+[Tue, 18 Feb 2020 09:31:02 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Tue, 18 Feb 2020 09:31:02 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_session 304
+[Tue, 18 Feb 2020 09:31:02 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET / 200
+[Tue, 18 Feb 2020 09:31:03 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/pouchdb-site.png 304
+[Tue, 18 Feb 2020 09:31:03 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?_=1582018262425 200
+[Tue, 18 Feb 2020 09:31:03 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1582018262426 200
+[Tue, 18 Feb 2020 09:31:03 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fauxtonicon5.woff 304
+[Tue, 18 Feb 2020 09:31:03 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_replicator?_=1582018262427 200
+[Tue, 18 Feb 2020 09:31:03 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_users?_=1582018262428 200
+[Tue, 18 Feb 2020 09:31:03 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/fonts/fontawesome-webfont.woff 304
+[Tue, 18 Feb 2020 09:31:03 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/pouchdb-favicon.png 200
+[Tue, 18 Feb 2020 09:31:30 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?startkey=%22s%22&endkey=%22s%E9%A6%99%22&limit=30&_=1582018262429 200
+[Tue, 18 Feb 2020 09:31:31 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?startkey=%22so%22&endkey=%22so%E9%A6%99%22&limit=30&_=1582018262430 200
+[Tue, 18 Feb 2020 09:31:31 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?startkey=%22son%22&endkey=%22son%E9%A6%99%22&limit=30&_=1582018262431 200
+[Tue, 18 Feb 2020 09:31:31 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?startkey=%22song%22&endkey=%22song%E9%A6%99%22&limit=30&_=1582018262432 200
+[Tue, 18 Feb 2020 09:31:31 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?startkey=%22songl%22&endkey=%22songl%E9%A6%99%22&limit=30&_=1582018262433 200
+[Tue, 18 Feb 2020 09:31:32 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?startkey=%22songli%22&endkey=%22songli%E9%A6%99%22&limit=30&_=1582018262434 200
+[Tue, 18 Feb 2020 09:31:32 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?startkey=%22songlin%22&endkey=%22songlin%E9%A6%99%22&limit=30&_=1582018262435 200
+[Tue, 18 Feb 2020 09:31:32 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?startkey=%22songline%22&endkey=%22songline%E9%A6%99%22&limit=30&_=1582018262436 200
+[Tue, 18 Feb 2020 09:31:32 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?startkey=%22songlines%22&endkey=%22songlines%E9%A6%99%22&limit=30&_=1582018262437 200
+[Tue, 18 Feb 2020 09:31:32 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?startkey=%22songlinesl%22&endkey=%22songlinesl%E9%A6%99%22&limit=30&_=1582018262438 200
+[Tue, 18 Feb 2020 09:31:32 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?startkey=%22songlinesli%22&endkey=%22songlinesli%E9%A6%99%22&limit=30&_=1582018262439 200
+[Tue, 18 Feb 2020 09:31:32 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_all_dbs?startkey=%22songlineslib%22&endkey=%22songlineslib%E9%A6%99%22&limit=30&_=1582018262440 200
+[Tue, 18 Feb 2020 09:31:38 GMT] [info] [<0.000.0>] 127.0.0.1 - - PUT /songlineslib 201
+[Tue, 18 Feb 2020 09:31:38 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /songlineslib/_all_docs?startkey=%22_design%2F%22&endkey=%22_design0%22&include_docs=true&limit=501 200
+[Tue, 18 Feb 2020 09:31:38 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /songlineslib/_all_docs?limit=21 200
+[Tue, 18 Feb 2020 09:31:38 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /songlineslib/_all_docs?startkey=%22%22&endkey=%22%E9%A6%99%22&limit=30&_=1582018262441 200
+[Tue, 18 Feb 2020 09:31:38 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /_utils/dashboard.assets/img/couch-watermark.png 304
+[Tue, 18 Feb 2020 09:31:41 GMT] [info] [<0.000.0>] 127.0.0.1 - - GET /songlineslib/_all_docs?limit=21 304
