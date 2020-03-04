@@ -1,15 +1,13 @@
-// fetch all songlines
-$.ajax({
-    url: "../data/songlineslib.json",
-    dataType: "json",
-    method: "GET"
-}).done(data => {
+var db = new PouchDB('http://localhost:5984/songlineslib');
+
+db.allDocs({ include_docs: true}).then( data => { 
 
     let popupwindow = new google.maps.InfoWindow();
 
-    let sl;
-    for (sl of data.songlines) {
+    let row;
+    for (row of data.rows) {
 
+        let sl = row.doc;
         // map songlines
         let path1 = new google.maps.Polyline({
             path: sl.path,
